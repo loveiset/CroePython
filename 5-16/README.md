@@ -1,5 +1,6 @@
-*5-16
+* 5-16
 家庭财务。给定一个初始金额和月开销数，使用循环，确定剩下的金额和当月的支出数，包括最后的支出数。Payment()函数会用到初始金额和月额度，输出结果应该类似下面的格式(例子中的数字仅用于演示）。
+
 Enter opening balance: 100.00
 Enter monthly payment: 16.13
 ```   Amount   Remaining
