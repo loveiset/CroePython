@@ -4,8 +4,7 @@
 
     Enter opening balance: 100.00
     Enter monthly payment: 16.13
-
-         Amount   Remaining
+    Amount   Remaining
     Pymt#    Paid        Balance
     ------   ----     ---------
     0        $ 0.00      $100.00
